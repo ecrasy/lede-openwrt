@@ -1,6 +1,6 @@
-src-git packages https://github.com/ecrasy/lede-packages.git
-src-git luci https://github.com/ecrasy/lede-luci.git
-src-git routing https://github.com/coolsnowwolf/routing
+src-git packages https://github.com/ecrasy/lede-packages.git;master
+src-git luci https://github.com/ecrasy/lede-luci.git;master
+src-git routing https://github.com/ecrasy/routing.git;openwrt-23.05
 src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git helloworld https://github.com/fw876/helloworld.git
 #src-git oui https://github.com/zhaojh329/oui.git
